@@ -14,16 +14,16 @@
 - Custom markers that can snap to a detected surface.
 - QRCode detection. 
 
- [How It Works?](https://github.com/nesseratious/AR-Navigation/blob/master/Documentation/How-It-Works.md)
+ ### [How It Works?](https://github.com/nesseratious/AR-Navigation/blob/master/Documentation/How-It-Works.md)
  
- [Requirements?](https://github.com/nesseratious/AR-Navigation/blob/master/Documentation/Requirements.md)
+ ### [Requirements?](https://github.com/nesseratious/AR-Navigation/blob/master/Documentation/Requirements.md)
  
- [How To Set It Up?](https://github.com/nesseratious/AR-Navigation/blob/master/Documentation/AR-Navigation-How-To-Set-It-Up.md)
+ ### [How To Set It Up?](https://github.com/nesseratious/AR-Navigation/blob/master/Documentation/AR-Navigation-How-To-Set-It-Up.md)
  
- [How To Debug?](https://github.com/nesseratious/AR-Navigation/blob/master/Documentation/Debug.md)
+ ### [API Documentation](https://github.com/nesseratious/AR-Navigation/blob/master/API/API.md)
+ 
+ [Debugging](https://github.com/nesseratious/AR-Navigation/blob/master/Documentation/Debug.md)
 
- [API Documentation](https://github.com/nesseratious/AR-Navigation/blob/master/API/API.md)
- 
  [Data Assets](https://github.com/nesseratious/AR-Navigation/blob/master/API/DataAssets.md)
  
  [Project Assets](https://github.com/nesseratious/AR-Navigation/blob/master/API/ProjectAssets.md)
