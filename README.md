@@ -26,8 +26,6 @@
 
  [Data Assets](https://github.com/nesseratious/AR-Navigation/blob/master/API/DataAssets.md)
  
- [Project Assets](https://github.com/nesseratious/AR-Navigation/blob/master/API/ProjectAssets.md)
- 
  [Update Log](https://github.com/nesseratious/AR-Navigation/blob/master/UpdateLog.md)
  
 ## Working demo
